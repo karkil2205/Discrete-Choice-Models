@@ -4,4 +4,4 @@
 * Describe firt the data used in his paper (Section 5.1 and 5.2).
 * Produce Table 1. Summary statistics for Cracker and Yogurt data.
 * The data are available in the R Package: [mlogit](https://cran.r-project.org/web/packages/mlogit/index.html).
-*  
+* Explain Section 3.1. The random utility maximization framework.
