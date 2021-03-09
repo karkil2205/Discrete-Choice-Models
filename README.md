@@ -1,5 +1,5 @@
 # Discrete Choice Models: Theory and Applications in Economics and Marketing
-* We are using the paper : [MISRA, Sanjog. Generalized reverse discrete choice models. Quantitative Marketing and Economics, 2005, vol. 3, no 2, p. 175-200](https://booksc.org/book/8122485/a8bab3).
+* We are mainly using the paper : [MISRA, Sanjog. Generalized reverse discrete choice models. Quantitative Marketing and Economics, 2005, vol. 3, no 2, p. 175-200](https://booksc.org/book/8122485/a8bab3).
 * Describe the data used in that paper (Sections 5.1 and 5.2).
 * Produce Table 1. Summary statistics for Cracker and Yogurt data.
 * The data are available in the [mlogit](https://cran.r-project.org/web/packages/mlogit/index.html) **R** Package.
