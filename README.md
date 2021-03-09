@@ -1,4 +1,4 @@
-# Introduction to Discrete Choice Models 
+# Introduction to Discrete Choice Models (Application in Marketing)
 * We are using the paper : [MISRA, Sanjog. Generalized reverse discrete choice models. Quantitative Marketing and Economics, 2005, vol. 3, no 2, p. 175-200](https://booksc.org/book/8122485/a8bab3).
 * Describe the data used in that paper (Section 5.1 and 5.2).
 * Produce Table 1. Summary statistics for Cracker and Yogurt data.
