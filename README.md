@@ -4,4 +4,4 @@
 * Produce Table 1. Summary statistics for Cracker and Yogurt data.
 * The data are available in the [mlogit](https://cran.r-project.org/web/packages/mlogit/index.html) R Package.
 * Explain Section 3.1. The random utility maximization framework.
-* Provide de formulas for the celebrated *mulinomial logit model*. The following relate paper may help: [ANDERSON, Simon P. et DE PALMA, André. Reverse discrete choice models. Regional Science and Urban Economics, 1999, vol. 29, no 6, p. 745-764](https://booksc.org/book/14057891/a29f1c).
+* Provide the formulas for the celebrated *mulinomial logit model*. The following relate paper may help: [ANDERSON, Simon P. et DE PALMA, André. Reverse discrete choice models. Regional Science and Urban Economics, 1999, vol. 29, no 6, p. 745-764](https://booksc.org/book/14057891/a29f1c).
