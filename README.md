@@ -1,5 +1,6 @@
 # Discrete Choice Models: Theory and Applications in Economics and Marketing
 * We are mainly using the paper : [MISRA, Sanjog. Generalized reverse discrete choice models. Quantitative Marketing and Economics, 2005, vol. 3, no 2, p. 175-200](https://booksc.org/book/8122485/a8bab3).
+* The data were originally in [JAIN, Dipak C., VILCASSIM, Naufel J., et CHINTAGUNTA, Pradeep K. A random-coefficients logit brand-choice model applied to panel data. Journal of Business & Economic Statistics, 1994, vol. 12, no 3, p. 317-328](https://booksc.org/book/21856588/9eb889).
 * Describe the data used in that paper (Sections 5.1 and 5.2).
 * Produce Table 1. Summary statistics for Cracker and Yogurt data.
 * The data are available in the [mlogit](https://cran.r-project.org/web/packages/mlogit/index.html) **R** Package.
