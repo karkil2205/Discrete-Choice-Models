@@ -76,3 +76,21 @@ kable(Feat_tab,digits = 4,caption = "Feature: Yogurt data")
 
 ```
 
+## Functions in R
+```{r}
+Prem <- function(beta) {
+  return(beta*c(2,6,8)) 
+}
+
+Prem(10)
+
+
+```
+1. Ecrire la fonction de vraisemblance dans le cas du modele logit pour les données Yogurt avec une seule variable (Price)
+2. Faire un graphique pour comprendre le comportement de cette fonction
+3. Où se situe graphiquement son maximum ?
+4. Trouver un package qui cherche le maximum numériquement.
+
+
+
+
